@@ -1,6 +1,6 @@
 #	V1.0.0
 #	Instruction
-i.	Static generator password
+i.	Static password generator
 
 #	libs
 i.	Bootstrap 4
